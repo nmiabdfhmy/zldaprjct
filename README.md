@@ -3,9 +3,9 @@
 Let me introduce you about myself, my name is Nami A. Fahmy from Indonesia. I'am a Digintal Imaging & Graphic Designer. I’m currently learning on programming.
 
 ### My Stats
-![zldaprjct's GitHub stats](https://github-readme-stats.vercel.app/api?username=zldaprjct&show_icons=true&theme=nord)
+![zldaprjct's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmiabdfhmy&show_icons=true&theme=nord)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=zldaprjct&layout=compact&theme=nord&hide=Css)](https://github.com/zldaprjct)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=nmiabdfhmy&layout=compact&theme=nord&hide=Css)](https://github.com/zldaprjct)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=zldaprjct)
 
